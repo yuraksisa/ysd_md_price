@@ -1,0 +1,1 @@
+require 'yito/b_m/prices/ysd_md_price_model_aspect'
